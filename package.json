@@ -1,0 +1,26 @@
+{
+  "name": "KTproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1092216139/KTproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1092216139/KTproject/issues"
+  },
+  "homepage": "https://github.com/1092216139/KTproject#readme",
+  "devDependencies": {
+    "query-string": "^6.13.6"
+  },
+  "dependencies": {
+    "uni-simple-router": "^1.5.5"
+  }
+}
